@@ -4,6 +4,6 @@
 
 https://gro3x.labstar.com
 
-Webscraping a el sistema de LabStar y despliegue de una interface web para automatizar la obtencion de datos.
-- Logeo automatico de peticiones con usuario y contraseña.
+Webscraping a el sistema de LabStar y despliegue de una interface web para automatizar la obtención de datos.
+- Logeo automático de peticiones con usuario y contraseña.
 - Comprobacion automática del estado de la sesión para renovarla en caso de que este expirada 
